@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブラーリー",
+  "base_artist": "Puddle Of Mudd",
+  "createdAt": "2025-12-07T05:39:19.904007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blurry",
+      "artist": "Puddle Of Mudd",
+      "has_synced": false,
+      "path": "select/pl_01_Blurry_Puddle_Of_Mudd.txt"
+    }
+  ]
+}
